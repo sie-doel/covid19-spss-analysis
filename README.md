@@ -6,16 +6,16 @@ This repository contains an analysis of COVID-19 data using SPSS. The analysis i
 - Statistical reports
 - SPSS project file (.sav)
 
-### 📊 SPSS Visualizations:
+###  SPSS Visualizations:
 Below are some charts and visualizations created using SPSS:
 
 ![SPSS Fatality Rate Chart](spss_chart_fatality_rate.png)
 
-### 📝 SPSS Report:
+###  SPSS Report:
 The report is available in the following Word document:
 - [SPSS Report: covid19_analysis_spss.docx](covid19_analysis_spss.docx)
 
-### 🗂️ SPSS Project:
+###  SPSS Project:
 You can access the SPSS project file here:
 - [SPSS Project: covid19_spss.sav](covid19_spss.sav)
 
